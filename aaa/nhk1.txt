@@ -1,1 +1,2 @@
 Dette er linie 1
+Dette er linie 2
